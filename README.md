@@ -9,8 +9,10 @@ Uses a few inputs to output a result:
 
 ## Resolution, population, generations:
   resolution is the power of 2 factor, used to determine to how many parts an X axis should be split into
+  
   population is how many random points should be created at the start of the program, to simulate a biological
     diferrentiations across population
+    
   generations are the iterations of the population, during which, Crossing Over, Mutation, and Roulette functions take place
     to determine population members having best aim function, in other words, that fit the desired solution better than other
     members
