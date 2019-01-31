@@ -17,5 +17,4 @@ Uses a few inputs to output a result:
     to determine population members having best aim function, in other words, that fit the desired solution better than other
     members
   
-Some of the factors were set final, those are propablilities of the Crossing Over, and Mutation, and were given numbers based
-  on the experience and 
+Some of the factors were set final, those are propablilities of the Crossing Over, and Mutation, and were given numbers based on the experience and knowledge gathered during the course of a Genetic Agorithms lecture, conducted by prof. Janusz Hołyst at Warsaw University of Technology
