@@ -3,11 +3,11 @@
 A simple genetic algorithm to find location of the minimum, maximum or point equal to zero of the given 2D, x^4 function
 
 Uses a few inputs to output a result:
-# a, b, c, d, e:
+## a, b, c, d, e:
   factors of an x^4 equation in the form of:
     a + b*x + c*x^2 + d*x^3 + e*x^4
 
-# Resolution, population, generations:
+## Resolution, population, generations:
   resolution is the power of 2 factor, used to determine to how many parts an X axis should be split into
   population is how many random points should be created at the start of the program, to simulate a biological
     diferrentiations across population
